@@ -28,7 +28,7 @@ require (
 	github.com/creack/pty v1.1.18
 	github.com/docker/cli v24.0.6+incompatible
 	github.com/docker/distribution v2.8.3+incompatible
-	github.com/docker/docker v26.0.1+incompatible
+	github.com/docker/docker v26.1.5+incompatible
 	github.com/docker/go-units v0.5.0
 	github.com/dustin/go-humanize v1.0.1
 	github.com/elazarl/go-bindata-assetfs v1.0.1
@@ -55,8 +55,8 @@ require (
 	github.com/hashicorp/go-cty-funcs v0.0.0-20200930094925-2721b1e36840
 	github.com/hashicorp/go-discover v0.0.0-20220621183603-a413e131e836
 	github.com/hashicorp/go-envparse v0.0.0-20180119215841-310ca1881b22
-	github.com/hashicorp/go-getter v1.7.4
-	github.com/hashicorp/go-hclog v1.6.2
+	github.com/hashicorp/go-getter v1.7.5
+	github.com/hashicorp/go-hclog v1.6.3
 	github.com/hashicorp/go-immutable-radix/v2 v2.1.0
 	github.com/hashicorp/go-kms-wrapping/v2 v2.0.15
 	github.com/hashicorp/go-memdb v1.3.4
@@ -106,7 +106,7 @@ require (
 	github.com/moby/sys/mountinfo v0.6.2
 	github.com/moby/term v0.0.0-20210619224110-3f7ff695adc6
 	github.com/muesli/reflow v0.3.0
-	github.com/opencontainers/runc v1.1.12
+	github.com/opencontainers/runc v1.1.14
 	github.com/opencontainers/runtime-spec v1.1.0
 	github.com/posener/complete v1.2.3
 	github.com/prometheus/client_golang v1.18.0
@@ -126,7 +126,7 @@ require (
 	go.uber.org/goleak v1.2.1
 	golang.org/x/crypto v0.22.0
 	golang.org/x/sync v0.6.0
-	golang.org/x/sys v0.19.0
+	golang.org/x/sys v0.20.0
 	golang.org/x/time v0.3.0
 	google.golang.org/grpc v1.59.0
 	google.golang.org/protobuf v1.33.0
@@ -195,7 +195,7 @@ require (
 	github.com/godbus/dbus/v5 v5.1.0 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/gojuno/minimock/v3 v3.0.6 // indirect
-	github.com/golang-jwt/jwt/v4 v4.4.3 // indirect
+	github.com/golang-jwt/jwt/v4 v4.5.1 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/google/btree v1.1.2 // indirect
 	github.com/google/go-querystring v0.0.0-20170111101155-53e6ce116135 // indirect
@@ -209,7 +209,7 @@ require (
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-immutable-radix v1.3.1 // indirect
 	github.com/hashicorp/go-msgpack v1.1.6-0.20240304204939-8824e8ccc35f // indirect
-	github.com/hashicorp/go-retryablehttp v0.7.2 // indirect
+	github.com/hashicorp/go-retryablehttp v0.7.7 // indirect
 	github.com/hashicorp/go-rootcerts v1.0.2 // indirect
 	github.com/hashicorp/go-safetemp v1.0.0 // indirect
 	github.com/hashicorp/go-secure-stdlib/parseutil v0.1.7 // indirect
